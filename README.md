@@ -1,3 +1,9 @@
+# What is this mod/What does it do?
+This mod's goal is to provide example implementations of custom Forge items, blocks, entities,
+and many other things. This is done to help new and experienced modders by providing an easy and 
+well-documented reference to bounce off of or use as a starting point. The version of minecraft
+this uses is 1.16.5, and ways of doing things may change in future versions.
+
 
 Source installation information for modders
 -------------------------------------------
